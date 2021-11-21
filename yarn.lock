@@ -2802,11 +2802,13 @@ __metadata:
     "@types/node": ^12.11.1
     bootstrap: ^4.6.1
     jasmine-core: ~3.10.0
+    jquery: 3.5.1
     karma: ~6.3.0
     karma-chrome-launcher: ~3.1.0
     karma-coverage: ~2.0.3
     karma-jasmine: ~4.0.0
     karma-jasmine-html-reporter: ~1.7.0
+    popper.js: 1.16.1
     rxjs: ~7.4.0
     tslib: ^2.3.0
     typescript: ~4.4.3
@@ -5083,6 +5085,13 @@ fsevents@~2.3.2:
   languageName: node
   linkType: hard
 
+"jquery@npm:3.5.1":
+  version: 3.5.1
+  resolution: "jquery@npm:3.5.1"
+  checksum: 813047b852511ca1ecfaa7b2568aba1d7270a92e5c74962b308792a401adf041869a3b2a6858b0b7a02f6684947fb93171e40cbb4460831977a937b40b0e15ce
+  languageName: node
+  linkType: hard
+
 "js-tokens@npm:^4.0.0":
   version: 4.0.0
   resolution: "js-tokens@npm:4.0.0"
@@ -6436,7 +6445,7 @@ fsevents@~2.3.2:
   languageName: node
   linkType: hard
 
-"popper.js@npm:^1.14.1":
+"popper.js@npm:1.16.1, popper.js@npm:^1.14.1":
   version: 1.16.1
   resolution: "popper.js@npm:1.16.1"
   checksum: c56ae5001ec50a77ee297a8061a0221d99d25c7348d2e6bcd3e45a0d0f32a1fd81bca29d46cb0d4bdf13efb77685bd6a0ce93f9eb3c608311a461f945fffedbe
